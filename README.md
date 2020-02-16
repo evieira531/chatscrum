@@ -1,1 +1,1 @@
-Chatscrum V1!!
+Chatscrum = version 1.0
