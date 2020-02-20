@@ -1,1 +1,1 @@
-Chatscrum = "version 1"
+Chatscrum = "version 1.0"
